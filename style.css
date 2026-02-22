@@ -1,0 +1,22 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+button {
+  border-radius: 25px;
+}
+
+.chart-container {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
+
+#resultChart {
+  width: 500px !important;
+  height: 500px !important;
+}
